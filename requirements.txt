@@ -1,0 +1,6 @@
+tensorflow>=2.10
+keras>=2.10
+imutils==0.5.4
+numpy>=1.23
+opencv-python
+scipy
